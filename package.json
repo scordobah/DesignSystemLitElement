@@ -1,0 +1,27 @@
+{
+  "name": "button-example-sch",
+  "version": "1.0.0",
+  "description": "Web Component for a Button using LitElement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scordobah/DesignSystemLitElement"
+  },
+  "keywords": [
+    "button",
+    "litElement",
+    "WebComponents"
+  ],
+  "author": "Santiago Cordoba Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scordobah/DesignSystemLitElement"
+  },
+  "homepage": "https://github.com/scordobah/DesignSystemLitElement",
+  "dependencies": {
+    "lit-element": "^3.3.2"
+  }
+}
